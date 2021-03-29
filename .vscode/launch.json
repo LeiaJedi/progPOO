@@ -1,0 +1,57 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Principal",
+            "request": "launch",
+            "mainClass": "Principal",
+            "projectName": "progPOO_3ff1f03f"
+        },
+        {
+            "type": "java",
+            "name": "Launch exemplo_do_while",
+            "request": "launch",
+            "mainClass": "exemplo_do_while",
+            "projectName": "progPOO_3ff1f03f"
+        },
+        {
+            "type": "java",
+            "name": "Launch exemplo_if_else",
+            "request": "launch",
+            "mainClass": "exemplo_if_else",
+            "projectName": "progPOO_3ff1f03f"
+        },
+        {
+            "type": "java",
+            "name": "Launch exemplo_switch_case",
+            "request": "launch",
+            "mainClass": "exemplo_switch_case",
+            "projectName": "progPOO_3ff1f03f"
+        },
+        {
+            "type": "java",
+            "name": "Launch exemplo_while",
+            "request": "launch",
+            "mainClass": "exemplo_while",
+            "projectName": "progPOO_3ff1f03f"
+        },
+        {
+            "type": "java",
+            "name": "Launch exerc1_slides1",
+            "request": "launch",
+            "mainClass": "exerc1_slides1",
+            "projectName": "progPOO_3ff1f03f"
+        }
+    ]
+}
